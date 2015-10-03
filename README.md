@@ -79,7 +79,7 @@ CD-volta para pastas
 
 
 Maria --------
-
+<pre>
 cat=mostrar texto de dentro de um arquivo
  rmdir=excluir pasta vazia
  rm=excluir arquivo e pasta
@@ -92,3 +92,4 @@ cat=mostrar texto de dentro de um arquivo
 +mv=mudar nome do arquivo
  clear=limpar texto
  rmdir=excluir pasta vazia
+ </pre>
