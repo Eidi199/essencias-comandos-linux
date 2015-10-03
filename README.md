@@ -15,3 +15,21 @@ Autor Gabriel Lobato irá citar comandos de linux, porém se faltar o Abel compl
 Valeu galera e bons estudos. 
 #linuxnãoélixo #linux<3 #linuxéomelhor #queremosFPSnolinux #queremosMAISAPLICATIVOSnolinux
 
+---------- Rachel ------------
+<pre>
+MKDIR-criar pasta
+PWD- o caminho da pasta
+LS-lista pasta e arquivos
+CD- mudar de pasta
+RMDIR-excluir a pasta
+RM- excluir pasta e arquivos
+TOUCH- criar arquivos
+SUDO- excutar o comando
+CHMOD- permissões
+MV- texto.txt/pasta
+CLEAR-limpa terminal
+LS-a lista arquivos e oculta pasta
+LS-r mostras pastas e subpastas
+LS-l Touch 
+CD-volta para pastas
+</pre>
