@@ -76,3 +76,19 @@ CD-volta para pastas
 + help [-dms] [padrão ...]                { COMANDOS ; }
 +
 +</pre>
+
+
+Maria --------
+
+cat=mostrar texto de dentro de um arquivo
+ rmdir=excluir pasta vazia
+ rm=excluir arquivo e pasta
+-sudo=executaro comando com administrador
++sudo=executar o comando com administrador
+ tauch=criar um aquivo.txt
+-chmad=alterarpermissoes de arquivos e pastas
+-mv=mudaro nome do arquivo
++chmad=alterar permissoes de arquivos e pastas
++mv=mudar nome do arquivo
+ clear=limpar texto
+ rmdir=excluir pasta vazia
