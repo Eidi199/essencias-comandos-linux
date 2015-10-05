@@ -15,7 +15,6 @@ Autor Gabriel Lobato irá citar comandos de linux, porém se faltar o Abel compl
 Valeu galera e bons estudos. 
 #linuxnãoélixo #linux<3 #linuxéomelhor #queremosFPSnolinux #queremosMAISAPLICATIVOSnolinux
 
-
 # essencias-comandos-linux
  Um conjunto de comandos essenciais do linux
 
