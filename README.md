@@ -15,24 +15,6 @@ Autor Gabriel Lobato irá citar comandos de linux, porém se faltar o Abel compl
 Valeu galera e bons estudos. 
 #linuxnãoélixo #linux<3 #linuxéomelhor #queremosFPSnolinux #queremosMAISAPLICATIVOSnolinux
 
----------- Rachel ------------
-<pre>
-MKDIR-criar pasta
-PWD- o caminho da pasta
-LS-lista pasta e arquivos
-CD- mudar de pasta
-RMDIR-excluir a pasta
-RM- excluir pasta e arquivos
-TOUCH- criar arquivos
-SUDO- excutar o comando
-CHMOD- permissões
-MV- texto.txt/pasta
-CLEAR-limpa terminal
-LS-a lista arquivos e oculta pasta
-LS-r mostras pastas e subpastas
-LS-l Touch 
-CD-volta para pastas
-</pre>
 
 # essencias-comandos-linux
  Um conjunto de comandos essenciais do linux
@@ -96,20 +78,3 @@ shutdown e shutdown -r
 <pre>
 more 
 </pre>
-
-
-Maria --------
-<pre>
-cat=mostrar texto de dentro de um arquivo
- rmdir=excluir pasta vazia
- rm=excluir arquivo e pasta
--sudo=executaro comando com administrador
-+sudo=executar o comando com administrador
- tauch=criar um aquivo.txt
--chmad=alterarpermissoes de arquivos e pastas
--mv=mudaro nome do arquivo
-+chmad=alterar permissoes de arquivos e pastas
-+mv=mudar nome do arquivo
- clear=limpar texto
- rmdir=excluir pasta vazia
- </pre>
